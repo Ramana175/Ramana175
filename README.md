@@ -73,7 +73,6 @@
 - 🟡 AWS Cloud Practitioner (CLF-C02)
 - 🟡 HashiCorp Terraform Associate (003)
 - 🟡 CKA — Certified Kubernetes Administrator
-- 🟡 Microsoft AZ-900
 
 ---
 
